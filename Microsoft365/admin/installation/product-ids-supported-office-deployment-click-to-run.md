@@ -109,4 +109,4 @@ For managing the Lync or Skype for Business clients, the following table lists t
 |Skype for Business Basic 2016     |[Office Deployment Tool](https://www.microsoft.com/en-us/download/details.aspx?id=49117)      |SkypeforBusinessEntryRetail       |
 |Skype for Business 2019           |[Office Deployment Tool](https://www.microsoft.com/en-us/download/details.aspx?id=49117)      |SkypeforBusinessRetail            |
 |Skype for Business 2019 (volume licensed)         |[Office Deployment Tool](https://www.microsoft.com/en-us/download/details.aspx?id=49117)      |SkypeforBusiness2019Volume            |
-|Skype for Business Basic 2019     |[Office Deployment Tool](https://www.microsoft.com/en-us/download/details.aspx?id=49117)      |SkypeforBusiness2019Retail            |
+|Skype for Business Basic 2019     |[Office Deployment Tool](https://www.microsoft.com/en-us/download/details.aspx?id=49117)      |SkypeforBusinessEntry2019Retail            |
